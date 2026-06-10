@@ -47,6 +47,7 @@ pip3 install pyzipper
 
 **How to Run (Usage)**
 Clone this repository to your local machine:
+
 git clone [https://github.com/Emii31/zip-cracker.git](https://github.com/Emii31/zip-cracker.git)
 
 cd zip-cracker
