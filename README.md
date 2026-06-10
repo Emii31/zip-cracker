@@ -29,15 +29,20 @@ You must have Python and Git installed. This script requires the `pyzipper` libr
 **For Termux (Android):**
 
 pkg update && pkg upgrade -y
+
 pkg install python git -y
+
 pip install pyzipper
+
 termux-setup-storage
 
 ---
 **For Linux (Debian/Ubuntu):**
 
 sudo apt update
+
 sudo apt install python3 git -y
+
 pip3 install pyzipper
 
 **How to Run (Usage)**
@@ -45,6 +50,7 @@ Clone this repository to your local machine:
 git clone [https://github.com/Emii31/zip-cracker.git](https://github.com/Emii31/zip-cracker.git)
 
 cd zip-cracker
+
 python zip_cracker.py
 
 
